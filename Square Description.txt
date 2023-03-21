@@ -1,0 +1,7 @@
+I primarily worked on the Payments team, which involved writing and maintaining microservices to encode and route payments to external payment processors, working closely with those external payment processors to understand their requirements, and creating tools to facilitate debugging improperly encoded payment messages.
+
+I also spent some time on the other teams writing/maintaining core services including the reverse proxy that routes all incoming web traffic, the SMS delivery service, and the user authentication service.
+
+Most of the services that my teams owned were mission critical and highly available.
+
+I also frequently interviewed candidates and attended job fairs and conferences.
